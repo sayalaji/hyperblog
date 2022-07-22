@@ -6,3 +6,5 @@ Me gusta el fútbol y montar en bicicleta
 Me gusta el anime y leer manga
 
 Quiero aprender a programar
+Esta genial este curso de Git y GitHub
+
